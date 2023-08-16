@@ -31,11 +31,4 @@ A simple environment for Reinforcement Learning. Try to solve it.
 
 &nbsp;
 
-5. Output video of an episode looks like:
-<video controls>
-  <source src="example output/01.mp4" type="video/mp4">
-</video>
-
-&nbsp;
-
 Have fun!
